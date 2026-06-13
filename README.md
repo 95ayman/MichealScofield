@@ -3,8 +3,8 @@
 ## Équipe de Projet
 * Ninjbaatar Oyungerel- Responsable GC(GC)
 * Loqcman Benyoucef - Responsable architecture Python (INFO)
-* Ayman Ghomari - Responsable dessin DXF
-* laurent minkoulou - Responsable validation et tests
+* Ayman Ghomari - Responsable dessin DXF  (INFO)
+* laurent minkoulou - Responsable architcure Python  (INFO)
 
 ---
 
